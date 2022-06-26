@@ -6,7 +6,7 @@ Aqui você vai conhecer sobre o conceito e os benefícios do pagamento via pix.
 
 De acordo com o Banco Central, o pix **é mais uma forma de pagamento disponível no Brasil**. Esse pagamento é efetuado por dispositivos digitais e o dinheiro é transferido entre contas em segundos. Os tipos de contas para efetuar pagamentos por pix podem ser: Corrente; Poupança; ou Pagamento Pré-paga.
 
-> Você sabe o que é uma conta Pré-paga? este tipo de conta não realiza transações de créditos, diferentes de outras contas (corrente ou poupança). Aqui, você deve realizar um depósito e utilizar o saldo disponpivel para efetuar compras.
+> Você sabe o que é uma conta Pré-paga? este tipo de conta não realiza transações de créditos, diferentes de outras contas (corrente ou poupança). Aqui, você deve realizar um depósito e utilizar o saldo disponível para efetuar compras.
 
 
 Conheça mais sobre o pix, [leia esta matéria do Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/pix).
@@ -15,7 +15,7 @@ Conheça mais sobre o pix, [leia esta matéria do Banco Central](https://www.bcb
 
 ## Benefícios do pagamento via pix 
 
-O pagamento via pix apresenta múltiplos benefícios. Conheça-os abaixo.
+O pagamento via pix apresenta múltiplos benefícios, conheça-os abaixo.
 
 
 ![beneficiospix](https://github.com/FelipeMozart/pix-tutorial/blob/master/img/beneficios.png)
@@ -33,7 +33,7 @@ O pix é uma das formas de pagamentos digitais mais rápidas. Envie ou receba tr
 
 ### Segurança
 
-Tenha mais segurança com pagamentos e recebimento. O Banco Central é o órgão responsável pela legislação do pix. Assim tem mais segurança em suas transações.
+Tenha mais segurança com pagamentos e recebimento. O Banco Central é o órgão responsável pela legislação do pix. Assim, tenha mais segurança em suas transações.
 
 ### Chaves exclusivas
 
