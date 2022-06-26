@@ -39,8 +39,11 @@ Em caso de necessidade, você pode configurar novamente sua chave pix. Para isso
 
 *Você pode consultar o banco sempre que precisar. Na tela inicial, do passo 1, clique em **Chat**. Os consultores estarão disponíveis para lhe atender.*
 
-Para saber mais:
- - Mas o que é pix?
+
+
+## Outras informações relacionadas
+ - [Mas o que é Pix?](https://github.com/FelipeMozart/pix-tutorial/blob/master/text/2como-config-chave-pix.md)
+
 
 
 
