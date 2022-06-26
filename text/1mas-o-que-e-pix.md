@@ -18,6 +18,11 @@ Para saber mais, [leia esta matéria do Banco Central](https://www.bcb.gov.br/es
 O pagamento via pix apresenta múltiplos benefícios. Conheça-os abaixo.
 
 
+![beneficios-pix](img/beneficios.png)
+
+**Figura I:** Benefícios do pagamento via pix
+
+
 ### Disponibilidade
 
 Pagamentos e recebimentos via pix estão disponíveis 24 horas em todos os dias. Envie ou receba transferências quando e onde quiser.
