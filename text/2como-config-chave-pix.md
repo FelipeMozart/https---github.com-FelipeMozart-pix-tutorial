@@ -8,7 +8,9 @@ A seguir, estão mapeados os passos que você deve executar para configurar sua 
 
 > Atenção: antes de iniciar os procedimentos abaixo, você deve garantir que seu aparelho está contectado à internet. 
 
+![configpix](https://github.com/FelipeMozart/pix-tutorial/blob/master/img/config%20pix.png)
 
+**Figura I:** Benefícios do pagamento via pix
 
 ### Passo 1
 
