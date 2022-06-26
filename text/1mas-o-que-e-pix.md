@@ -1,6 +1,6 @@
 # Mas o que é Pix?
 
-Aqui você vai conhecer sobre o conceito e os benefícios do pagamento via pix.
+Aqui, você vai conhecer sobre o conceito e os benefícios do pagamento via pix.
 
 ##  Conceito
 
