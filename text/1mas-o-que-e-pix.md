@@ -9,7 +9,7 @@ De acordo com o Banco Central, o pix **é mais uma forma de pagamento disponíve
 > Você sabe o que é uma conta Pré-paga? este tipo de conta não realiza transações de créditos, diferentes de outras contas (corrente ou poupança). Aqui, você deve realizar um depósito e utilizar o saldo disponpivel para efetuar compras.
 
 
-Para saber mais, [leia esta matéria do Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/pix).
+Conheça mais sobre o pix, [leia esta matéria do Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/pix).
 
 
 
@@ -44,7 +44,7 @@ Para cada conta, pessoa física ou jurídica, existe uma chave exclusiva para us
 
 
 
-Para saber mais:
+**Outras informações relacionadas** :
  - [Como Configurar minha chave pix?](https://github.com/FelipeMozart/pix-tutorial/blob/master/text/2como-config-chave-pix.md)
 
 
