@@ -18,7 +18,7 @@ Para saber mais, [leia esta matéria do Banco Central](https://www.bcb.gov.br/es
 O pagamento via pix apresenta múltiplos benefícios. Conheça-os abaixo.
 
 
-![beneficios-pix](img/beneficios.png](https://github.com/FelipeMozart/pix-tutorial/blob/master/img/beneficios.png))
+![beneficiospix](https://github.com/FelipeMozart/pix-tutorial/blob/master/img/beneficios.png)
 
 **Figura I:** Benefícios do pagamento via pix
 
