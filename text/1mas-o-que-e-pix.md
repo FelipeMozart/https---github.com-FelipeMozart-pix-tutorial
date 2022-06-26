@@ -44,7 +44,7 @@ Para cada conta, pessoa física ou jurídica, existe uma chave exclusiva para us
 
 
 
-**Outras informações relacionadas** :
+## Outras informações relacionadas
  - [Como Configurar minha chave pix?](https://github.com/FelipeMozart/pix-tutorial/blob/master/text/2como-config-chave-pix.md)
 
 
