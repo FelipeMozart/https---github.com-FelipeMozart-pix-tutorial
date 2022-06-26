@@ -10,7 +10,7 @@ A seguir, estão mapeados os passos que você deve executar para configurar sua 
 
 ![configpix](https://github.com/FelipeMozart/pix-tutorial/blob/master/img/config%20pix.png)
 
-**Figura I:** Benefícios do pagamento via pix
+**Figura I:** Passo a passo para configuração pix.
 
 ### Passo 1
 
