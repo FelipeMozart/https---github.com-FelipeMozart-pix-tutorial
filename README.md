@@ -13,3 +13,6 @@ Neste portal saiba o que é pix e como deve configurar sua chave.
 *Em caso de maiores esclarecimentos, envie e-mail para: tudosobrepix@pix.com. Os consultores estão disponíveis para te ajudar.*
 
 
+## Organização e Gestão da Informação
+
+Para saber sobre os métodos adotados para construção desse documento, [clique neste link](). 
