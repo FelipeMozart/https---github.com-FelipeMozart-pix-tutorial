@@ -17,18 +17,20 @@ O desenho a seguir ilustra a arquitetura adotada.
 
 ![organizacaodainformacao](https://github.com/FelipeMozart/pix-tutorial/blob/master/img/estrutura-texto.png)
 
-
+**Figura I:** divisão textual.
 
 
 A estrutura acima identifica partes e subpartes da construção textual. 
 
-Toda a redação foi escrita em Markdown, um tipo de linguagem de marcação. Nesta linguagem define-se Título <H1> com o uso de uma # (cerquilha). Para subtítulos <H2> usam-se ## (duas certquilhas), para subtítulos menores ### (três cerquilhas).
+Toda a redação foi escrita em Markdown, um tipo de linguagem de marcação. Nesta linguagem define-se Título <H1> com o uso de *uma cerquilha*. Para subtítulos <H2> usam-se *duas certquilhas*, para subtítulos menores *três cerquilhas*.
 
 
 
 O próximo desenho mapeia as propriedades do texto. 
 
 ![propriedadestexto](https://github.com/FelipeMozart/pix-tutorial/blob/master/img/estrutura-texto-aqr2.png)
+  
+ **Figura II:** propriedades textuais.
 
 O *Texto apresentação* deve iniciar a leitura do documento. Nele, a pessoa usuária deve saber o que encontrar naquele texto, sobre o quê está escrito.
 
