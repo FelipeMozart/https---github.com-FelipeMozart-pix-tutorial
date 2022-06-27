@@ -1,6 +1,6 @@
 # Organização e Gestão da Informação
 
-O desenvolvimento desse documento está baseado em boas práticas de redação técnica que reúnem os processos de organização e gestão da informação. Para isso, foram explorados os elementos evidenciados abaixo. 
+O desenvolvimento desse documento está baseado em boas práticas de redação técnica, que reúnem os processos de organização e gestão da informação. Para isso, foram explorados os elementos evidenciados abaixo. 
 
 ## Organização da Informação
 
@@ -45,6 +45,33 @@ O uso de **Ilustração** enriquece a leitura e compreensão dos objetos descrit
 Ao final dos textos, pode-se elencar outras informações relacionadas (**Link relacionado**) que, no desenho acima, informou-se *"Como configurar minha chave pix?"*.
 
 
+
+
+## Gestão da Informação
+
+As práticas de redação técnica devem ser guiadas por bons guias de estilos que orientem sobre as políticas de organização, disponibilização e acesso aos conteúdos. 
+
+Para essa documentação:
+
+- A organização da informação trata-se de todos os elementos vistos na seção anterior;
+- A disponibilização é um dos pontos mais importantes, pois é aqui que se considera quais são os conteúdos a serem escritos e para quem devem ser disponibilizados. O quesito *segurança* também é considerado neste ponto;
+- Acesso à informação deve garantir que as pessoas para quem o conteúdo foi escrito têm acesso às informações que precisam. Tal como a disponbilização, o acesso também deve garantir questões de *segurança* relacionadas à autenticação e autorização de acesso ao conteúdo.
+
+A aplicação desse tripé (organização, disponibilização e acesso) podem ser evidenciadas:
+  - **Organização**: contrução e propriedades textuais;
+  - **Disponibilização**: essa plataforma (github) é uma das principais ferramentas adotadas para compatilhamento de conteúdos técnicos e não técnicos;
+  - **Acesso**: como um dos fatores de segurança dessa plataforma, o repositório pode ser dos tipos: *público* ou *privado*. Neste caso, as documentações estão disponíveis em caráter **público**. 
+
+
+
+
+## Textos de apoio de minha autoria
+
+Os textos abaixo são do tipo científico, mas que norteiam as ideias discutidas sobre organização e gestão da informação:
+
+1) [Sistemas de Organização do Conhecimento: semelhanças e diferenças](https://seer.ufs.br/index.php/conci/article/view/13673)
+2) [Uso estratégico da ontologia para organização e gestão da informação jurídica](https://repositorio.ufpe.br/handle/123456789/29646)
+3) [Os mapas conceituais para representação da informação no domínio jurídico](https://www.cajur.com.br/index.php/cajur/article/view/172)
 
 
 
