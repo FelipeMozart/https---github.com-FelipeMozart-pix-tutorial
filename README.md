@@ -1,6 +1,6 @@
 # PIX: conceito e configuração
 
-Neste portal você vai saber o que é pix e como deve configurar sua chave. 
+Neste portal saiba o que é pix e como deve configurar sua chave. 
 
 ![imagempix](https://github.com/FelipeMozart/pix-tutorial/blob/master/img/pix.png)
 
