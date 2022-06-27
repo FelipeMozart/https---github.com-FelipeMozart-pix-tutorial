@@ -15,4 +15,4 @@ Neste portal saiba o que é pix e como deve configurar sua chave.
 
 ## Organização e Gestão da Informação
 
-Para saber sobre os métodos adotados para construção desse documento, [clique neste link](). 
+Para saber sobre os métodos adotados para construção desse documento, [clique neste link](https://github.com/FelipeMozart/pix-tutorial/blob/master/text/organizacao-e-gestao-da-informacao.md). 
