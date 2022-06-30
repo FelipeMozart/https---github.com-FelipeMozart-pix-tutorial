@@ -44,7 +44,7 @@ Em caso de necessidade, você pode configurar novamente sua chave pix. Para isso
 
 
 ## Outras informações relacionadas
- - [Mas o que é Pix?](https://github.com/FelipeMozart/pix-tutorial/blob/master/text/2como-config-chave-pix.md)
+ - [Mas o que é Pix?](https://github.com/FelipeMozart/pix-tutorial/blob/master/text/1mas-o-que-e-pix.md)
 
 
 
